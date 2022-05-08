@@ -19,13 +19,17 @@
 
 ---
 
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
+</div>
 
-<p>
+--
+
+> Note: Most Used Languages is only a metric of languages used in my public repositories and do not reflect experience or skill level.
+
 <br/>
-<b>Note:</b> The most used languages are only a measure of languages used in my public repositories and do not reflect experience or skill level.
-</p>
+
 
 ## 📊 Stats
 
@@ -33,7 +37,7 @@
   <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand<-</mark></summary>
   <br/>
    <a href="https://github.com/mrstev3n"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+ 
 </details>
 
 <br/>
