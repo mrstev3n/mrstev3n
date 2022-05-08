@@ -28,7 +28,7 @@
 
 </div>
 
-> Note: Most Used Languages is only a metric of languages used in my public repositories and do not reflect experience or skill level.
+> Note: Most Used Languages is only a metric of languages used in my public repositories <br/> and do not reflect experience or skill level.
 
 <br/>
 
