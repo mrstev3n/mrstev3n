@@ -19,6 +19,5 @@
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=140/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
 
