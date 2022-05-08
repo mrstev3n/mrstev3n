@@ -36,6 +36,10 @@
    <a href="https://github.com/mrstev3n"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+<style>
+z{color:red;}
+</style>
+
 </details>
 
 <br/>
@@ -45,10 +49,6 @@
 </div>
 
 <br/>
-
-<style>
-z{color:red;}
-</style>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrstev3n) -->
 
