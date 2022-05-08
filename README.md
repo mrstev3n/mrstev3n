@@ -38,7 +38,7 @@
   <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
 
-   <a href="javascript:void(0);"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="#"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
