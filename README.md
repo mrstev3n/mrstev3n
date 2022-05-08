@@ -28,10 +28,10 @@
 <b>Note:</b> The most used languages are only a measure of languages used in my public repositories and do not reflect experience or skill level.
 </p>
 
-## 📊 Stats (Expand to View)
+## 📊 Stats
 
 <details>
-  <summary><b> Recent GitHub Activity</b></summary>
+  <summary><b> Recent GitHub Activity [tap to expand]</b></summary>
   <br/>
    <a href="https://github.com/mrstev3n"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
