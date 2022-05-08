@@ -4,5 +4,5 @@
 Steven Houessou-Adin, `Product Designer` from Benin 🇧🇯, `Educator`, `Mentor` & `Maker`.
 
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&theme=gotham)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
