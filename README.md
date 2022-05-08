@@ -10,23 +10,34 @@
 <br>
 
 <div align="center">
+
 <a href="https://figma.com/@steven"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height=24></a>
 <a href="https://www.polywork.com/mrsteven"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height=24></a>
 <a href="https://twitter.com/mrstev3n"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=24></a>
 <a href="https://www.linkedin.com/in/steven-houessou-adin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=24></a>
 <a href="mailto:stevenkejjad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=24></a> 
+
 </div>
 
 ---
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
+
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150></a>
+
 </div>
 
+<<<<<<< Updated upstream
 ---
+=======
+<!-- <div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=150/>
+</div> -->
+>>>>>>> Stashed changes
 
-> Note: Most Used Languages is only a metric of languages used in my public repositories and do not reflect experience or skill level.
+Note: Most Used Languages is only a metric of languages used in my public repositories and do not reflect experience or skill level.
 
 <br/>
 
