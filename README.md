@@ -2,7 +2,7 @@
 
 <!--BIO-->
 Steven Houessou-Adin, `Product Designer` from Benin 🇧🇯, `Educator`, `Mentor` & `Maker`.
-----------
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=false&locale=en&hide=html&hide_border=true" height=140/></p>
