@@ -23,8 +23,8 @@
 
 <div align="center">
 
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a>
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a>
+<a href="javascript:void(0);"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a>
+<a href="javascript:void(0);"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a>
 
 </div>
 
@@ -38,7 +38,7 @@
   <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
 
-   <a href="https://github.com/mrstev3n"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="#"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
