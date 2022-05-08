@@ -34,9 +34,10 @@
 
 ## 📊 Stats
 
-<details>
-  <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand<-</mark></summary>
+<details open>
+  <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
+
    <a href="https://github.com/mrstev3n"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
