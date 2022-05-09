@@ -42,11 +42,7 @@
 
  <br/>
 
-<div href="https://github.com/mrstev3n?tab=repositories">
-
-<img alt="Snake eating steven's contributions" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
+<a href="https://github.com/mrstev3n?tab=repositories"><img alt="Snake eating steven's contributions" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.svg" /></a>
 
 <!-- <details open>
   <summary><b> Snake on my GitHub contributions</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
