@@ -42,6 +42,15 @@
  
 </details>
 
+<details open>
+  <summary><b> Snake on my GitHub contributions</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
+  <br/>
+
+   <a href="#"><img alt="Steven's Activity Graph" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.gif" /></a>
+ 
+</details>
+
+
 <br/>
 
 <div align="center">
