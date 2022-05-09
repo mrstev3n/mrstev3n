@@ -32,8 +32,6 @@
 
 <br/>
 
-## 📊 Stats
-
 <details>
   <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
@@ -42,14 +40,21 @@
  
 </details>
 
-<details open>
+ <br/>
+
+<div href="#">
+
+<img alt="Snake eating steven's contributions" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.gif" />
+
+</div>
+
+<!-- <details open>
   <summary><b> Snake on my GitHub contributions</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
 
-   <a href="#"><img alt="Steven's Activity Graph" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.svg" /></a>
+   <a href="#"><img alt="Steven's Activity Graph" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.gif" /></a>
  
-</details>
-
+</details> -->
 
 <br/>
 
