@@ -34,7 +34,7 @@
 
 ## 📊 Stats
 
-<details open>
+<details>
   <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
   <br/>
 
