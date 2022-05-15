@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://figma.com/@steven"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height=24></a> &nbsp;
-<a href="https://www.polywork.com/mrsteven"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height=24></a> &nbsp;
+<a href="https://www.polywork.com/mrsteven"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" height=24></a> &nbsp;
 <a href="https://twitter.com/mrstev3n"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=24></a> &nbsp;
 <a href="https://www.linkedin.com/in/steven-houessou-adin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=24></a> &nbsp;
 <a href="mailto:stevenkejjad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=24></a>
@@ -33,7 +33,9 @@
 <br/>
 
 <details>
-  <summary><b> Recent GitHub Activity</b> <mark>->Tap to Expand/Collapse<-</mark></summary>
+  <summary> Recent GitHub Activity >>Tap to Expand/Collapse
+  </summary>
+
   <br/>
 
    <a href="#"><img alt="Steven's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrstev3n&custom_title=Steven%20Adin's%20Contribution%20Graph&theme=react-dark&hide=html&hide_border=true" /></a>
