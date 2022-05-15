@@ -56,7 +56,7 @@
 <br/>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/mrstev3n"><img alt="Buy Me A Coffee" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height=32></a>
+<a href="https://www.buymeacoffee.com/mrstev3n"><img alt="Buy Me A Coffee" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height=32></a> &nbsp;&nbsp;&nbsp;
 <a href="https://liberapay.com/mrstev3n/"><img alt="Liberapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black" height=32></a>
 </p>
 
