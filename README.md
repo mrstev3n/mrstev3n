@@ -1,8 +1,14 @@
 <h1 align="center"> Hello You All ! <img src="Assets/wave.gif" height=30px></h1>
 
+<!--
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World+.+.+.;Lorem+Ipsum+.+.+.&center=true&width=500&height=50&font=default"></a>
 </p>
+
+-->
+
+[comment]: <> (Thisdsdsd is a comment, it will not be included)
 
 <!--BIO-->
 
