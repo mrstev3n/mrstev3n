@@ -10,7 +10,7 @@
 
 <!--BIO-->
 
-<h4 align="center">I enjoy making Figma Plugins/Widgets to speed up my tasks but mostly to help people. I'm currently working on an update of my <a href="https://github.com/mrstev3n/Transpose-plugin"> Transpose plugin </a>. Feel free to follow me or join me on my networks.</h4>
+<h4 align="center">I enjoy making Figma Plugins/Widgets to speed up my tasks but mostly to help people. I'm currently working on an update of my <a href="https://github.com/mrstev3n/Transpose-plugin"> Transpose plugin </a>. Feel free to reach me on my networks.</h4>
 <br>
 
 <div align="center">
