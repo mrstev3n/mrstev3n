@@ -1,4 +1,4 @@
-<h1 align="center"> Hello You All ! <img src="Assets/wave.gif" height=30px></h1>
+<h1 align="center"> Hello You All 👋🏼</h1>
 
 <!--
 
