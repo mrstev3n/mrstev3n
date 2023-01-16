@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<!--  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a> -->
+<!--  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a> 
  
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstev3n&layout=compact&theme=default&show_icons=true&locale=en&hide=html&hide_border=true" height=160></a>
 
@@ -35,7 +35,7 @@
 
 > **Note:** Most Used Languages is only a metric of languages used in my public repositories <br/> and do not reflect experience or skill level.
 
-<br/>
+<br/> 
 
 <details>
   <summary> Recent GitHub Activity >>Tap to Expand/Collapse
@@ -47,7 +47,7 @@
 
 </details>
 
- <br/>
+ <br/> -->
 
 <a href="https://github.com/mrstev3n?tab=repositories"><img alt="Snake eating steven's contributions" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.svg"/></a>
 
