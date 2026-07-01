@@ -49,7 +49,13 @@
 
  <br/> -->
 
-<a href="https://github.com/mrstev3n?tab=repositories"><img alt="Snake eating steven's contributions" src="https://github.com/mrstev3n/mrstev3n/blob/output/github-contribution-grid-snake.svg"/></a>
+<a href="https://github.com/mrstev3n?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrstev3n/mrstev3n/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrstev3n/mrstev3n/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating Steven's contributions" src="https://raw.githubusercontent.com/mrstev3n/mrstev3n/output/github-contribution-grid-snake.svg">
+  </picture>
+</a>
 
 <!-- <details open>
 
